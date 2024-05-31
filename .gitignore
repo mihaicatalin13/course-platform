@@ -1,3 +1,9 @@
+# Uploads
+uploads/
+
+# Database
+database.sqlite
+
 # Logs
 logs
 *.log
